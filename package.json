@@ -1,6 +1,6 @@
 {
   "name": "devbox-recursive-find",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Buscar arquivos ou diretórios recursivamente.",
   "main": "lib/index.js",
   "directories": {
